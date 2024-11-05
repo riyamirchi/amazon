@@ -230,7 +230,7 @@ span{
 }
 .footer1{
     height:20px ;
-    width:1120px ;
+    width:1250px ;
     background-color: rgb(58, 58, 58);
     color: white;
     display: flex;
@@ -240,7 +240,7 @@ span{
 }
 .footer2{
     height: 250px;
-    width: 1110px;
+    width: 1250px;
     background-color: #261f1f;
     color: white;
    
